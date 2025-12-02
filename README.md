@@ -1,4 +1,4 @@
-🌊 Wave Breaker — 
+🌊 Wave Breaker 
 
 A fast-paced wave themed brick breaker built for GameJam 2025
 
@@ -6,9 +6,9 @@ A fast-paced wave themed brick breaker built for GameJam 2025
 
 🎮 About the Game
 
-Wave Breaker is a modern, FX-heavy twist on the classic Breakout-style game. Everything is powered by clean, pure HTML5 Canvas + JavaScript — no engines, no frameworks.
+Wave Breaker is a modern, FX heavy twist on the classic Breakout style game. Everything is powered by clean, pure HTML5 Canvas + JavaScript — no engines, no frameworks.
 
-• Begin coding core mechanics. The theme “Waves” is represented through: • Dynamic flowing brick movement • Water distortion shader • Ripple + shockwave effects • Boss waves every 5 levels • Neon trails & splash particles • Chain-reaction wave explosions
+• Begin coding core mechanics. The theme “Waves” is represented through: • Dynamic flowing brick movement • Water distortion shader • Ripple + shockwave effects • Boss waves every 5 levels • Neon trails & splash particles • Chain reaction wave explosions
 
 • Start asset creation (art, sound, UI). It’s designed to feel fast, smooth, and visually fluid — like an arcade game made of water.
 
