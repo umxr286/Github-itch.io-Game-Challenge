@@ -1,6 +1,6 @@
-🌊 Wave Breaker — Ultra FX Edition
+🌊 Wave Breaker — 
 
-A fast-paced wave-themed brick breaker built for GameJam 2025
+A fast-paced wave themed brick breaker built for GameJam 2025
 
 ⸻
 
@@ -32,7 +32,6 @@ Powered by Web Audio API: • Paddle hit • Brick crack • Wave clear • Powe
 
 To run smoothly even on low-end hardware and MacBooks: • Reduced particle counts • Removed heavy canvas blurs • Lightweight background shader • Efficient collision checks • Zero external libraries • Fully GPU-friendly
 
-You can enable “Ultra FX Mode” in source if you want max VFX.
 
 ⸻
 
